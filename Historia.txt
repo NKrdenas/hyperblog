@@ -4,8 +4,13 @@ Nicolas Cardenas tiene 10 años y nacio en Colombia
 
 Niko Es un colaborador de este proyecto open source, y esta aprendiendo a programar
 
+Experimento 1
+
 Master 1
 
+<<<<<<< HEAD
 Master 2
 
+=======
+>>>>>>> c7af869 (Exp 1)
 Mañana nos enfocaremos en su vida estudiantil
